@@ -1,6 +1,8 @@
 class Student:
     name = ''
     score = {}
+    school = ''
+    address = ''
     
     def score_average(self):
         score_average = 0
@@ -41,6 +43,18 @@ class Student:
 
 std2 = Student()
 std2.name = "hiếu"
+std2.school = "Trường THCS Cầu giấy" 
+std2.address = "Hà Nội" 
+
+std1 = Student()
+std1.name = "Nguyễn Thế Doanh"
+std1.school = "Trường THCS Công nguyên"
+std1.address = "Hà Nội"
+
+std3 = Student()
+std3.name = "Nguyễn Thị Hệ"
+std3.school = "Trường THCS Công nguyên"
+std3.address = "Hà Nội"
 
 std2.score = {
     'toán': 9,
