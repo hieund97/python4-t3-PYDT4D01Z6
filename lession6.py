@@ -2,7 +2,7 @@ import streamlit as st
 import time
 
 
-button = st.button("Show Balloon")
+button = st.button("Thổi bóng bay lên")
 
 if button:
     progress_bar = st.progress(0)
