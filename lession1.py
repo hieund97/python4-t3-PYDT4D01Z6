@@ -44,7 +44,7 @@ class Student:
 std2 = Student()
 std2.name = "hiếu"
 std2.school = "Trường THCS Cầu giấy" 
-std2.address = "Hà Nội" 
+std2.address = "Hà Nội1" 
 
 std1 = Student()
 std1.name = "Nguyễn Thế Doanh"
