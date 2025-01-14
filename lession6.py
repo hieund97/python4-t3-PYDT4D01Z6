@@ -20,3 +20,6 @@ if button:
         if percent_complete == 100:
             st.balloons()
             break
+        
+with st.expander("Nhấn vào đây để mở rộng"):
+    st.write("Xin chào hôm nay chúng ta đã deploy thành công trang web")
