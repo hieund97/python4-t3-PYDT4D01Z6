@@ -23,3 +23,17 @@ if button:
 
 with st.expander("Thực hành"):
     st.write("Đây là thông tin mở rộng")
+    
+col1, col2, col3 = st.columns(3)
+
+with col1:
+    st.header("Đây là cột dành cho mèo")
+    st.write("Con mèo")
+
+with col2:
+    st.header("Đây là cột dành cho hổ")
+    st.write("Con hổ")
+    
+with col3:
+    st.header("Đây là cột dành cho rồng")
+    st.write("Con rồng")
