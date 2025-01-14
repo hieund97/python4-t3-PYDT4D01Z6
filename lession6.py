@@ -1,6 +1,7 @@
 import streamlit as st
 import time
 
+st.set_page_config(page_title="Thổi bóng bay", page_icon=":smile:", layout="wide")
 
 button = st.button("Thổi bóng bay lên")
 
