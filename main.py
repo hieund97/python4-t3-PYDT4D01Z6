@@ -2,6 +2,16 @@
 huy: https://huy-ict-app.streamlit.app/
 the nghi: https://thenghiicantech.streamlit.app/
 hieu: https://ict-mhieu-python-4.streamlit.app/
+
+
+Quy trình phát triển sản phẩm
+
+1. Thiết kế
+2. Phấn tích hệ thống
+3. Tạo đầu việc đầu mục, phân chia công việc
+4. Lập trình
+5. Kiểm thử
+6. Triển khai
 """
 
 

@@ -49,3 +49,8 @@ st.sidebar.write("1. Lời nói đầu")
 
 with st.sidebar:
     st.sidebar.write("2. Mục lục")
+
+image_path = "https://i1-vnexpress.vnecdn.net/2025/01/21/huy-6161-1737434813-3768-1737435120.jpg?w=680&h=0&q=100&dpr=1&fit=crop&s=NYdZpvG8-K_W6p5gg0RMww"
+st.image(image_path, caption="Ảnh tên lửa")
+
+st.audio("sample-12s.mp3", format="audio/mp3")
