@@ -25,3 +25,13 @@ st.audio("dlttad.mp3", format="audio/mp3")
 st.title("MV yêu thích")
 
 st.video("https://www.youtube.com/watch?v=abPmZCZZrFA", format="video/mp4")
+
+with st.expander("Xem lời bài hát ✰"):
+    st.write("Đừng làm trái tim anh đau")
+    st.write("Sáng tác: Sơn Tùng M-TP")
+    st.write("...")
+    
+st.audio("tiger.mp3", format="audio/mp3")
+
+
+
